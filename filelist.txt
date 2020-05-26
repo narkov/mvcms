@@ -1,0 +1,75 @@
+Escort filelist:
+
+escort
+	+---db
+	|
+	+---install
+	|
+	+---main
+	|
+	+---partner
+	|
+	+---member
+	|
+	+---admin
+	|
+	+---templates
+
+/escort/actions.php
+/escort/cadmin.inc
+/escort/cadmins.inc
+/escort/cmember.inc
+/escort/cmembers.inc
+/escort/cpartner.inc
+/escort/cpartners.inc
+/escort/functions.inc
+/escort/index.php
+/escort/iuser.inc
+/escort/readme.txt
+/escort/setup.php
+
+/escort/templates/mainpage.tpl
+/escort/templates/unknownpage.tpl
+/escort/templates/partner/partner_login_failed.tpl
+/escort/templates/partner/partner_login_form.tpl
+/escort/templates/partner/partner_logout.tpl
+/escort/templates/partner/partner_page_next.tpl
+/escort/templates/partner/partner_page_start.tpl
+/escort/templates/partner/partner_registrate_form.tpl
+/escort/templates/member/member_login_failed.tpl
+/escort/templates/member/member_login_form.tpl
+/escort/templates/member/member_logout.tpl
+/escort/templates/member/member_page_next.tpl
+/escort/templates/member/member_page_start.tpl
+/escort/templates/member/member_registrate_form.tpl
+/escort/templates/admin/admin_list.tpl
+/escort/templates/admin/admin_login_failed.tpl
+/escort/templates/admin/admin_login_form.tpl
+/escort/templates/admin/admin_logout.tpl
+/escort/templates/admin/admin_page_start.tpl
+/escort/templates/admin/member_list.tpl
+/escort/templates/admin/partner_list.tpl
+
+/escort/partner/partnerpages.php
+/escort/partner/templates_c/
+
+/escort/member/memberpages.php
+/escort/member/templates_c/
+
+/escort/main/indexpages.php
+/escort/main/templates_c/
+
+/escort/install/installdb.inc
+/escort/install/installdb.php
+
+/escort/db/adminsql.inc
+/escort/db/dbsetup.inc
+/escort/db/membersql.inc
+/escort/db/partnersql.inc
+
+/escort/admin/adminhandle.php
+/escort/admin/adminpages.php
+/escort/admin/index.php
+/escort/admin/memberhandle.php
+/escort/admin/partnerhandle.php
+/escort/admin/templates_c/
